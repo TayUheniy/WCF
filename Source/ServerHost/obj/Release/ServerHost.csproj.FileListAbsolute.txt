@@ -1,0 +1,13 @@
+C:\Users\artem\Desktop\МПLast\МП\WCFServer\ServerHost\bin\Release\ServerHost.exe.config
+C:\Users\artem\Desktop\МПLast\МП\WCFServer\ServerHost\bin\Release\ServerHost.exe
+C:\Users\artem\Desktop\МПLast\МП\WCFServer\ServerHost\bin\Release\ServerHost.pdb
+C:\Users\artem\Desktop\МПLast\МП\WCFServer\ServerHost\bin\Release\System.IO.FileSystem.dll
+C:\Users\artem\Desktop\МПLast\МП\WCFServer\ServerHost\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\artem\Desktop\МПLast\МП\WCFServer\ServerHost\bin\Release\WCFServer.dll
+C:\Users\artem\Desktop\МПLast\МП\WCFServer\ServerHost\bin\Release\WCFServer.pdb
+C:\Users\artem\Desktop\МПLast\МП\WCFServer\ServerHost\bin\Release\WCFServer.dll.config
+C:\Users\artem\Desktop\МПLast\МП\WCFServer\ServerHost\obj\Release\ServerHost.csprojAssemblyReference.cache
+C:\Users\artem\Desktop\МПLast\МП\WCFServer\ServerHost\obj\Release\ServerHost.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\МПLast\МП\WCFServer\ServerHost\obj\Release\ServerHost.csproj.CopyComplete
+C:\Users\artem\Desktop\МПLast\МП\WCFServer\ServerHost\obj\Release\ServerHost.exe
+C:\Users\artem\Desktop\МПLast\МП\WCFServer\ServerHost\obj\Release\ServerHost.pdb
